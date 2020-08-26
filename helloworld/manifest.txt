@@ -1,0 +1,2 @@
+Main-Class: HelloWorld
+Class-Path: ../libs/lwjgl/lwjgl.jar ../libs/lwjgl/lwjgl-glfw.jar ../libs/lwjgl/lwjgl-opengl.jar ../libs/lwjgl/lwjgl-natives-linux.jar ../libs/lwjgl/lwjgl-glfw-natives-linux.jar ../libs/lwjgl/lwjgl-opengl-natives-linux.jar
